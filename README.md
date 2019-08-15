@@ -5,3 +5,4 @@
 
 * test： git tag with same tag1
 * test： git tag with same tag2
+* test： git tag with same tag2
